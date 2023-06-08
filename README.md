@@ -2,7 +2,7 @@
 
 Preview:
 
-![Preview](preview)
+![Preview](preview/preview.mp4)
 
 
 
